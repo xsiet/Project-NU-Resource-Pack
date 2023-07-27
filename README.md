@@ -1,4 +1,4 @@
-## Project-NU-Resource-Pack
+# Project-NU-Resource-Pack
 Copyright 2023. TeamNU All pictures cannot be copied without permission.
-# Download
+## Download
 https://github.com/xsiet/Project-NU-Resource-Pack/raw/main/Project-NU-Resource-Pack.zip
